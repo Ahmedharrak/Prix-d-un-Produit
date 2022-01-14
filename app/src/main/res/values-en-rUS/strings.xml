@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prixProduit">Product Price</string>
+    <string name="etTitrePrixProduit">calculation of the purchase price of a product excluding tax and any tax included</string>
+    <string name="etPrix">Price(DH)</string>
+    <string name="etNombreProduit">number of an ordered product</string>
+    <string name="buttonPrixTotal">"TOTAL PRICE "</string>
+    <string name="buttonAnnuler">CANCEL</string>
+    <string name="etResultatPrixHT">price without tax(DH)</string>
+    <string name="etResultatPrixTTC">price all taxes included(DH)</string>
+</resources>

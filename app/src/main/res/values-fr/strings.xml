@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prixProduit">Prix d\'un Produit</string>
+    <string name="etTitrePrixProduit">Calcul d\'un prix d\'achat d\'un produit hors taxe et toute taxe comprise</string>
+    <string name="etPrix">Prix(DH)</string>
+    <string name="etNombreProduit">Nombre de produit commandé</string>
+    <string name="etResultatPrixHT">Prix hors taxe(DH)</string>
+    <string name="buttonAnnuler">ANNULER</string>
+    <string name="etResultatPrixTTC">Prix Toute Taxe Comprise(DH)</string>
+    <string name="buttonPrixTotal">PRIX TOTAL</string>
+</resources>

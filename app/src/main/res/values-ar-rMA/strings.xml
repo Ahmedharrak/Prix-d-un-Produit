@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prixProduit">ثمن المنتوج</string>
+    <string name="etTitrePrixProduit">حساب سعر شراء المنتج باستثناء الضريبة وأي ضريبة مشمولة</string>
+    <string name="etNombreProduit">عدد المنتجات المطلوبة</string>
+    <string name="etPrix">الثمن (بالدرهم)</string>
+    <string name="buttonPrixTotal">الثمن الكلي</string>
+    <string name="buttonAnnuler">إلغاء</string>
+    <string name="etResultatPrixHT">السعر بدون ضريبة (بالدرهم)</string>
+    <string name="etResultatPrixTTC">السعر شامل جميع الضرائب (بالدرهم)</string>
+</resources>

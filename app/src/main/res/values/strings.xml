@@ -1,0 +1,16 @@
+<resources>
+    <string name="prixProduit">Prix d\'un Produit</string>
+    <string name="etTitrePrixProduit" />
+    <string name="etPrix">Prix(DH)</string>
+    <string name="etNombreProduit">Nombre Produit</string>
+    <string name="etTVA" translatable="false">TVA(%)</string>
+    <string name="buttonPrixTotal" />
+    <string name="buttonAnnuler" />
+    <string name="etResultatPrixHT" />
+    <string name="etResultatPrixTTC" />
+    <string name="prix" translatable="false">0</string>
+    <string name="nombreProduit" translatable="false">1</string>
+    <string name="tva" translatable="false">0.18</string>
+    <string name="prixHT" translatable="false">0</string>
+    <string name="prixTTC" translatable="false">0</string>
+</resources>
